@@ -69,7 +69,7 @@ int main()
 
     }
     
-    std::cout << "You completed the game!";
+    std::cout << "You completed the game! Good Luck next time!";
 
     return 0;
 }
