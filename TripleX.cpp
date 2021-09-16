@@ -5,7 +5,7 @@ void PrintIntroduction(int Difficulty)
 {
     // Print welcome messages to the terminal
     std::cout << "\n\nYou are a secret agent breaking into a level " << Difficulty; 
-    std::cout << " secure server room...\nYou need to enter the correct codes to continue...\n\n"; 
+    std::cout << "  secure server room...\nYou need to enter the correct codes to continue...\n\n"; 
 }
 
 bool PlayGame(int Difficulty)
